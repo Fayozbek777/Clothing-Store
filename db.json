@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "price": 21999,
+      "img": "./src/assets/images/sneekers-imag1.png",
+      "title": "Кроссовки Nike Air Force",
+      "desk": "Классическая модель в городском стиле, идеально для повседневной носки."
+    },
+    {
+      "id": 2,
+      "price": 21999,
+      "img": "./src/assets/images/sneekers-imag1.png",
+      "title": "Кроссовки Nike Air Force",
+      "desk": "Классическая модель в городском стиле, идеально для повседневной носки."
+    },
+    {
+      "id": 3,
+      "price": 21999,
+      "img": "./src/assets/images/sneekers-imag1.png",
+      "title": "Кроссовки Nike Air Force",
+      "desk": "Классическая модель в городском стиле, идеально для повседневной носки."
+    },
+    {
+      "id": 4,
+      "price": 21999,
+      "img": "./src/assets/images/sneekers-imag1.png",
+      "title": "Кроссовки Nike Air Force",
+      "desk": "Классическая модель в городском стиле, идеально для повседневной носки."
+    }
+  ]
+}

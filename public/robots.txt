@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /wp-content/uploads/ 
+Disallow: /wp-admin/        
+Disallow: /search/          
+Disallow: /cart/            
+Disallow: *?*               
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
